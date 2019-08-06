@@ -9,4 +9,7 @@ Considering patients who received external beam radiotherapy at primary tumor fi
 Select those have both dose and endpoint (local control) information.
 ## Model 
 Adopt a fully-connected 2-hidden layer neural network (NN) to predict local control probability. 
-##
+## Result
+Plotting history of training/test losses 
+
+Calculating area under receiver operating curve (AUC)
