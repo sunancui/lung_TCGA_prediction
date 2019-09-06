@@ -13,5 +13,7 @@ In total: 45 patients
 Adopt a fully-connected 2-hidden layer neural network (NN) to predict local control probability. 
 ## Result
 Plotting history of training/test losses 
+<img src="./loss.png" width="800">
 
 Calculating area under receiver operating curve (AUC)
+<img src="./AUC.png" width="800">
