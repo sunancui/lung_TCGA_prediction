@@ -18,4 +18,4 @@ Plotting history of training/test losses
 
 Calculating area under receiver operating curve (AUC)
 
-<img src="./AUC.png" width="400">
+<img src="./auc.png" width="400">
